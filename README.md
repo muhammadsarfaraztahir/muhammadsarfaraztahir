@@ -3,12 +3,21 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsarfaraztahir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsarfaraztahir" margin="20px 20px"/> </p>
+- 🧑‍🏫 My Teacher [AhmedrAshraf](https://github.com/AhmedrAshraf)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsarfaraztahir" alt="muhammadsarfaraztahir" /></a> </p>
+- 🌱 I’m currently learning **Full Stack Web And Mobile App Development.**
+
+- 👯 I’m looking to collaborate on **Several intresting Project.**
+
+- 👨‍💻 All of my projects are available at []()
+
+- 📫 How to reach me ****
+
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **I am funny**
 
+<p align="center" justify-content="space-between" display="flex" gap="10px" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsarfaraztahir" alt="muhammadsarfaraztahir" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-sarfaraz-tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sarfaraz-tahir" height="30" width="40" /></a>
