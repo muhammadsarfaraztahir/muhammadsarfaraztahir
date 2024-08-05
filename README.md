@@ -1,3 +1,5 @@
+![logo](https://github.com/Rayyan7878/Rayyan7878/blob/main/githubban.gif)
+
 <h1 align="center">Hi 👋, I'm Muhammad Sarfaraz Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
