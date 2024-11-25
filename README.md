@@ -47,12 +47,6 @@
   <img src="https://raw.githubusercontent.com/muhammadsarfaraztahir/muhammadsarfaraztahir/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
 </p>
 
-<h3 align = "center">🐍 I Love this snake 🐍</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadsarfaraztahir/muhammadsarfaraztahir/output/snake.svg" alt="Snake animation" />
-</p>
-
-
 
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>
