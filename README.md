@@ -36,6 +36,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsarfaraztahir&" alt="muhammadsarfaraztahir" /></p>
 
+<div align="center">
+  <a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsarfaraztahir&theme=github&bg_color=none&hide_border=true&custom_title=I'm%20too%20lazy%20to%20continue%20the%20streak." width="400" height="200" alt="GitHub activity graph" style="display: inline-block; margin-right: 10px;" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsarfaraztahir&theme=transparent&hide_border=true&hide_current_streak=true" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
+</p>
+
+<h3 align = "center">🐍 I Love this snake 🐍</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AgungHari/AgungHari/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
