@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AgungHari/AgungHari/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
+
 </p>
 
 
