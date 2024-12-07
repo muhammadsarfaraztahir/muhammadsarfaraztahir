@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/Rayyan7878/Rayyan7878/blob/main/githubban.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Sarfaraz Tahir</h1>
