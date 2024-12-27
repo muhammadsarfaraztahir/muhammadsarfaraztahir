@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rayyan7878/Rayyan7878/blob/main/githubban.gif)
 
-<h1 align="center">Hi 👋, I'm MUHAMMAD Sarfaraz Tahir</h1>
+<h1 align="center">Hi 👋, I'm MUHAMMAD SArfaraz Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsarfaraztahir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsarfaraztahir" /> </p>
 
