@@ -49,8 +49,6 @@
  <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
 
-
-
 <!-- // (https://www.youtube.com/watch?v=sKuC-ejnPgY) (https://v0.dev/chat/mgw1LUXA5xW?b=b_ZjmaJbhwVXZ) yaar isay nahi delete kar na smit me akar marogai!!! -->
 
 <!--
