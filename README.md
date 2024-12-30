@@ -19,7 +19,6 @@
 - 📄 Know about my experiences []()
 
 - ⚡ Fun fact **I am funny**
-- 
 
 <p align="center" justify-content="space-between" display="flex" gap="10px" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsarfaraztahir" alt="muhammadsarfaraztahir" /></a> </p>
 <h3 align="left">Connect with me:</h3>
