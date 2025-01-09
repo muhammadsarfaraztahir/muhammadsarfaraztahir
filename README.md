@@ -40,7 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsarfaraztahir&show_icons=true&locale=en&layout=compact" alt="muhammadsarfaraztahir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsarfaraztahir&show_icons=true&locale=en" alt="muhammadsarfaraztahir" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsarfaraztahir&" alt="muhammadsarfaraztahir" /></p>
 
 <div align="center">
